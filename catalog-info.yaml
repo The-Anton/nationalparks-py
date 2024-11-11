@@ -28,7 +28,7 @@ metadata:
 spec:
   profile:
     # Intentional no displayName for testing
-    email: shesingh@redhat.com
+    email: shekhar59324@gmail.com
   memberOf: [temp-team-a]
 ---
 apiVersion: backstage.io/v1alpha1
